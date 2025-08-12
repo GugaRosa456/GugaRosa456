@@ -37,6 +37,4 @@
    <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" height="30" alt="python logo"  />
   <img width="12" />
 
-  
-
-###
+##
