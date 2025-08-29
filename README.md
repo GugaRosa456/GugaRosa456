@@ -1,6 +1,8 @@
 ## Olá! Eu Sou Gustavo Rosa
 
 
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -12,7 +14,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaRosa456&theme=blue-green" height="220" alt="streak graph"/>
 
-
+##
   <h3 align="left">Info:</h3>
   
 </div>
@@ -37,4 +39,4 @@
    <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" height="30" alt="python logo"  />
   <img width="12" />
 
-##
+
