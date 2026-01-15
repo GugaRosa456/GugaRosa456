@@ -2,16 +2,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GugaRosa456&theme=blue-green" height="220" alt="streak graph"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaRosa456&theme=blue-green" height="220" alt="streak graph"/>
-
-##
   <h3 align="left">Info:</h3>
   
 </div>
